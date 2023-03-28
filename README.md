@@ -1,4 +1,4 @@
-  # React TODO App 📱
+  # React TODO App ✅
   <a href="https://stadnytskyi-ivan.github.io/TODO-App/" style="font-size: 30px;">DEMO LINK</a>
   
   <p>
